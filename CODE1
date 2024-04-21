@@ -1,0 +1,10 @@
+#include<stdio.h>
+using namespace std:
+
+public base{
+  int x;
+void fun(x);
+}
+int main(){
+  base obj;
+return 0;
